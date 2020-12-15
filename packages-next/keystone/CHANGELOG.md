@@ -1,5 +1,16 @@
 # @keystone-next/keystone
 
+## 9.0.0
+
+### Major Changes
+
+- [`abc5440dc`](https://github.com/keystonejs/keystone/commit/abc5440dc5ee8d8cdd6ddddb32cf21bd2c3fc324) [#4573](https://github.com/keystonejs/keystone/pull/4573) Thanks [@timleslie](https://github.com/timleslie)! - Updated `initConfig` to return a copy of the `config` object, rather than modifying the object.
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @keystone-next/admin-ui@6.0.1
+
 ## 8.0.0
 
 ### Major Changes

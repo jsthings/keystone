@@ -1,5 +1,14 @@
 # @keystone-next/app-basic
 
+## 0.0.11
+
+### Patch Changes
+
+- Updated dependencies [[`abc5440dc`](https://github.com/keystonejs/keystone/commit/abc5440dc5ee8d8cdd6ddddb32cf21bd2c3fc324)]:
+  - @keystone-next/keystone@9.0.0
+  - @keystone-next/admin-ui@6.0.1
+  - @keystone-next/auth@10.0.0
+
 ## 0.0.10
 
 ### Patch Changes
